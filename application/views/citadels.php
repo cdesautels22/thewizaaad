@@ -14,7 +14,13 @@ $this->load->helper('url');
 </head>
 <body>
 
-<h3>Hello World</h3>
+  <div id="example"></div>
+  <script type="text/babel">
+    ReactDOM.render(
+      <h1>Hello, world!</h1>,
+      document.getElementById('example')
+    );
+  </script>
 
 </body>
 </html>
