@@ -10,6 +10,8 @@ $this->load->helper('url');
 	<title>Citdels</title>
   <script src="<?php echo base_url();?>js/lib/react.js" ></script>
   <script src="<?php echo base_url();?>js/lib/react-dom.js" ></script>
+  <script src="<?php echo base_url();?>js/lib/redux.js" ></script>
+  <script src="<?php echo base_url();?>js/lib/react-redux.js" ></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-core/5.8.23/browser.min.js"></script>
 </head>
 <body>
