@@ -1,5 +1,5 @@
-import React, { Component, PropTypes } from '../lib/react'
-import { connect } from '../lib/react-redux'
+import React, { Component, PropTypes } from 'react'
+import { connect } from 'react-redux'
 
 class App extends Component {
   constructor(props) {

@@ -1,4 +1,4 @@
-import { combineReducers } from '../lib/redux'
+import { combineReducers } from 'redux'
 
 const rootReducer = function(state, action) {
   return state

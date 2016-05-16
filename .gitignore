@@ -1,3 +1,6 @@
+js/bundle.js
+js/node_modules
+
 .DS_Store
 
 application/cache/*
